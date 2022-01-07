@@ -1,0 +1,232 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+h1 {
+    color: #E20000;
+    font-size: 36px;
+}
+p{
+    color: #6a6a6a;
+    font-size: 16px;
+}
+
+#contacto{
+    background-image: url('../images/fondo-contacto.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.codigo-wtsap{
+    width: 200px;;
+    height: 200px;
+    
+}
+footer{
+    font-weight:100;
+    color: white;
+}
+footer .fa-linkedin-in {
+    color: #ff4a49;
+    background-color: white;
+    font-size: 24px;
+    height: 36px;
+    width: 36px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 88px;
+    margin: 0 8px;
+}
+#proyectos .fa-linkedin-in {
+    color: white;
+    background-color: #ff4a49;
+}
+#sobre-mi .fa-linkedin-in {
+    color: white;
+    background-color: #ff4a49;
+}
+footer .fa-github {
+    font-size: 35px;
+
+}
+#proyectos .fa-github{
+    color: #ff4a49;
+}
+#sobre-mi .fa-github{
+    color: #E20000;
+    font-size: 35px;
+}
+#sobre-mi .fa-linkedin-in {
+    color: #E20000;
+    background-color: white;
+    font-size: 24px;
+    height: 36px;
+    width: 36px;
+    padding: 8px 0 0 0;
+    border-radius: 88px;
+    margin: 0 8px;
+}
+#sobre-mi .mi-foto{
+    border-radius: 50%;
+    width: 16rem;
+    margin-left: 100px;
+}
+footer a {
+    color: white;
+    text-decoration: underline;
+    
+}
+#sobre-mi footer a{
+    color: #E20000;
+    text-decoration: underline;
+}
+#proyectos footer a{
+    color: #E20000;
+    text-decoration: underline;
+}
+#sobre-mi footer span{
+    color: #E20000;
+}
+#proyectos footer span{
+    color: #E20000;
+}
+footer .fa-whatsapp{
+    font-size: 30px;
+    
+}
+.whatsapp{
+    position: fixed;
+    bottom: 0px;
+    right: 120px;
+    background-color: #370a6d;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px; 
+}
+.fa-download { /*DESCARGA DE CV*/
+    right: 80px;
+}
+#inicio{
+    background-image: url('../images/fondo-contacto.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#inicio .div-cohete{
+    height: 310px;
+}
+#inicio .cohete {
+    height: 300px ;
+}
+#inicio .cohete:hover{
+    height: 310px;
+}
+#inicio .input-home p{
+    color: white;
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-weight: 600;
+}
+#proyectos{
+    background-image: url('../images/fondo-proyectos.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#proyectos .img-fluid{
+    height: 200px;
+}
+#proyectos .text-justify {
+    height: 150px;
+}
+
+#proyectos h2{
+    font-size: 16px;
+    color: white;
+    background-color: #E20000;
+}
+
+#sobre-mi{
+    background-image: url('../images/fondo-proyectos.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.form-control{
+    border-radius: 20px;
+}
+
+.nav-link{
+    
+    color:#282828;
+}
+nav .navbar-toggler{
+    color: #E20000;
+    border: #E20000 1px solid;
+}
+
+.nav-link:hover{
+    border:  #E20000 solid  1px;
+    border-radius: 20px;
+}
+.btn-rojo{
+    background-color:#E20000;
+    border-radius: 20px;
+    color: white;
+}
+.btn-rojo:hover{
+    background-color: #370a6d;
+    color: #E20000;
+}
+.btn-blanco{
+    background-color: white;
+    border-radius: 20px;
+    color: #370a6d;
+    
+}
+.btn-link{
+    color: #E20000;
+    text-decoration: none;
+}
+.btn-link:hover{
+    color: #370a6d;
+}
+.btn-blanco:hover{
+    background-color: #370a6d;
+    color: white;
+}
+@media (max-width: 750px) { /*PARA MOBILE*/
+    #inicio, #contacto {
+        background-image: url(../images/fondo-proyectos.png);
+    }
+    #inicio .input-home p {
+        color: #E20000;
+        border: lpx solid #E20000;
+    }
+    #contacto {
+        background-image: url(../images/fondo-proyectos.png);
+    }
+    footer a{
+        color: #E20000;
+    }
+    .whatsapp{
+        position: fixed;
+        bottom: 0px;
+        height: 45px;
+        right: 10px;
+        background-color: #370a6d;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px; 
+    }
+    #inicio .input-home p{
+        color: #E20000 !important;
+        font-size: 17px;
+        border: 1px solid #E20000 !important;
+        border-radius: 50px;
+        font-weight: 600;
+    }
+    footer span{
+        color: #E20000;
+    }
+  
+}

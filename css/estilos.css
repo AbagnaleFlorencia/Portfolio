@@ -161,7 +161,6 @@ footer .fa-whatsapp{
     border-radius: 100%;
     width: 16rem;
     display: block;
-    
    
 }
 #sobre-mi h2{
@@ -198,6 +197,20 @@ footer .fa-whatsapp{
 .div-card-body{
     border: 1px;
     border-radius: 20px;
+}
+#sobre-mi .div-trabajo{
+    color: #6a6a6a;
+    font-family: 'Montserrat', sans-serif;
+}
+#sobre-mi h3{
+    font-size: 20px;
+}
+#sobre-mi h4{
+    color: #370A6D;
+    font-size: 18px;
+}
+#sobre-mi h5{
+    font-size: 15px;
 }
 
 

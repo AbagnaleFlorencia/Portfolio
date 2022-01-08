@@ -66,11 +66,7 @@ footer .fa-github {
     border-radius: 88px;
     margin: 0 8px;
 }
-#sobre-mi .mi-foto{
-    border-radius: 50%;
-    width: 16rem;
-    margin-left: 100px;
-}
+
 footer a {
     color: white;
     text-decoration: underline;
@@ -148,10 +144,63 @@ footer .fa-whatsapp{
 
 #sobre-mi{
     background-image: url('../images/fondo-proyectos.png');
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-color: #fe1c1c;
+    background-position: center;
+    background-attachment: fixed;
+}
+#sobre-mi .tecnologias{
+    background-color: #E20000;
+    color: #212529;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+#sobre-mi .mi-foto{
+    border: 15px solid white;
+    border-radius: 100%;
+    width: 16rem;
+    display: block;
+    
+   
+}
+#sobre-mi h2{
+    color: white;
+    padding: 5px;
+}
+#sobre-mi .div-tecnologias{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
 
 }
+#sobre-mi .img-tarjeta{
+    background-color: #370A6D;
+    padding: 20px;
+    color: white;
+    
+    max-width: 33%;
+   
+    border-radius: 20px;
+}
+.idiomas-hobbies .card-body{
+    line-height: 60%;
+}
+
+#sobre-mi .idiomas-hobbies .card{
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.fa-star, .fa-comment-alt {
+    font-size: 80px;
+}
+.div-card-body{
+    border: 1px;
+    border-radius: 20px;
+}
+
+
 .form-control{
     border-radius: 20px;
 }

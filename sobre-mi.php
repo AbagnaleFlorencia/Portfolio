@@ -24,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav mb-2 mb-mt-2">
                         <li class="nav-item  px-3">
-                            <a class="nav-link px-4 py-1" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item px-3">
-                            <a class="nav-link active px-4 py-1" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link active px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item px-3">
-                            <a class="nav-link px-4 py-1" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-4 py-1" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item px-3">
-                            <a class="nav-link px-4 py-1" href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4 py-1" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                 </div>
@@ -55,7 +55,7 @@
                     </p>
                     <div class="col-12 col-sm-6 ">
                             
-                        <a href="contacto.html" class="btn btn-rojo mt-3">Enviar mensaje</a>
+                        <a href="contacto.php" class="btn btn-rojo mt-3">Enviar mensaje</a>
                                     
                     </div>
 
@@ -338,7 +338,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row div-trabajo">
                             <div class="col-2 col-sm-2 my-auto ps-3 p-1">
-                                <img width="731" height="200" src="https://www.ficde.org/wp-content/uploads/2019/07/cropped-TRAZZADO-1.png" class="img-fluid baw" alt="Instituto Educativo FICDE" srcset="https://www.ficde.org/wp-content/uploads/2019/07/cropped-TRAZZADO-1.png 731w, https://www.ficde.org/wp-content/uploads/2019/07/cropped-TRAZZADO-1-300x82.png 300w" sizes="(max-width: 731px) 100vw, 731px">
+                                <img src="images/FICDE.png" alt="logo-ficde" class="img-fluid baw" >
                             </div>
                             <div class="col-12 col-sm-10 p-3">
                                 <h3>Curso Teórico Práctico de Reanimación Cardiopulmonar (RCP) y Primeros Auxilios</h3>

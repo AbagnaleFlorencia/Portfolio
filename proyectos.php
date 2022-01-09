@@ -58,8 +58,8 @@
             <div class="col-12 col-sm-4 div-proyectos">
                 <div class="m-1 border bg-white shadow">
                     <div>
-                        <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid"> <!--
-                            img-fluid permite que la imagen ocupe el 100% del contenedor -->
+                        <img src="images/abmclientes.png" alt="ABM Clientes" class="img-fluid"> 
+                            
                     </div>
                    
                     <div class="col-12 my-1">

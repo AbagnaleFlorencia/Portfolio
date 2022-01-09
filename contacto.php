@@ -23,8 +23,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav mb-2 mb-mt-2">
-                        <li class="nav-item  px-3"> <!--antes lo tenia on pe-3 y quedaba bien
-                             en la compu pero se rompia en el celu-->
+                        <li class="nav-item  px-3"> 
                             <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item px-3">
@@ -81,7 +80,7 @@
                 </form>
 
 
-             <!-- https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/-->
+             
 
             </div>
 

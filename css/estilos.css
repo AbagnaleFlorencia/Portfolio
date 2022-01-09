@@ -53,20 +53,8 @@ footer .fa-github {
     color: #ff4a49;
 }
 #sobre-mi .fa-github{
-    color: #E20000;
-    font-size: 35px;
+    color: #ff4a49;
 }
-#sobre-mi .fa-linkedin-in {
-    color: #E20000;
-    background-color: white;
-    font-size: 24px;
-    height: 36px;
-    width: 36px;
-    padding: 8px 0 0 0;
-    border-radius: 88px;
-    margin: 0 8px;
-}
-
 footer a {
     color: white;
     text-decoration: underline;
@@ -202,15 +190,23 @@ footer .fa-whatsapp{
     color: #6a6a6a;
     font-family: 'Montserrat', sans-serif;
 }
+.baw{
+    
+    filter: grayscale(100%);
+}
+.baw:hover{
+    filter: none;
+}
 #sobre-mi h3{
-    font-size: 20px;
+    font-size: 18px;
+    font-weight: 600;
 }
 #sobre-mi h4{
     color: #370A6D;
-    font-size: 18px;
+    font-size: 17px;
 }
 #sobre-mi h5{
-    font-size: 15px;
+    font-size: 14px;
 }
 
 
@@ -264,6 +260,13 @@ nav .navbar-toggler{
 @media (max-width: 750px) { /*PARA MOBILE*/
     #inicio, #contacto {
         background-image: url(../images/fondo-proyectos.png);
+        
+    }
+    #inicio .fa-github{
+        color: #ff4a49;
+    }
+    #contacto .fa-github{
+        color: #ff4a49;
     }
     #inicio .input-home p {
         color: #E20000;
@@ -291,9 +294,13 @@ nav .navbar-toggler{
         border-radius: 50px;
         font-weight: 600;
     }
-    #sobre-mi .my-auto{
-        margin-left: 30px;
+    #sobre-mi .parrafo-hobbies{
+        font-size: 10px;
     }
+    #sobre-mi .my-auto{
+        display: none;
+    }
+    
     #sobre-mi .tecnicatura{
         margin-left: 20px ;
     }

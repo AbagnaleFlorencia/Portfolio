@@ -14,7 +14,7 @@
     
         </div>
         <div class="whatsapp">
-            <a href="https://wa.me/+5493517049959" target="blank" ><i class="fab fa-whatsapp pb-4 pt-3 px-3"></i></a> 
+            <a href="https://wa.me/+5493517049959" target="blank" style="color: white" ><i class="fab fa-whatsapp pb-4 pt-3 px-3"></i></a> 
         </div>
         
     </footer>

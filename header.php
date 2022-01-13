@@ -23,7 +23,8 @@
                     </ul>
                 </div>
                 <div class="d-inline">
-                    <a href="" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
+                    <a href="download/file/2 CV ABAGNALE FLORENCIA 2021.pdf" download="CV Abagnale Florencia" class="btn btn-download btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
+                    
                 </div>
             </div>
         </nav>

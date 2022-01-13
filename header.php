@@ -16,7 +16,7 @@
                         <li class="nav-item px-3">
                             <a class="nav-link px-4 py-1  <?php echo ($pg =="proyectos") ? "active" : "" ?>" href="proyectos.php">Proyectos</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item px-3">
                         <a class="nav-link px-4 py-1 <?php echo ($pg =="contacto") ? "active" : "" ?>" href="contacto.php">Contacto</a>
                         </li>
 

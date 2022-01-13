@@ -258,6 +258,10 @@ nav .navbar-toggler{
     color: white;
 }
 @media (max-width: 750px) { /*PARA MOBILE*/
+    .nav-link:hover{
+        border:  none
+        
+    }
     #inicio, #contacto {
         background-image: url(../images/fondo-proyectos.png);
         

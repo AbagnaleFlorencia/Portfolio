@@ -14,7 +14,7 @@
     
         </div>
         <div class="whatsapp">
-            <a href="+54 9 351 704-9959"></a> <i class="fab fa-whatsapp pb-4 pt-3 px-3"></i>
+            <a href="https://wa.me/+5493517049959" target="blank" ><i class="fab fa-whatsapp pb-4 pt-3 px-3"></i></a> 
         </div>
         
     </footer>

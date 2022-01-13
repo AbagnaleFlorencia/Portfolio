@@ -414,29 +414,7 @@
         
 
     </main>
-    <footer class="container my-5">
-        <div class="row">
-            <div class="col-12 col-sm-3 text-center text-sm-start">
-                <a href="https://github.com/AbagnaleFlorencia" target="_blank" title="Github" class="mr-3"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/florencia-abagnale-bb656296" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
-
-            </div>
-            <div class="col-12 col-sm-3 text-center text-sm-start">
-              <span> Sponsor </span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
-            </div>
-            <div class="col-12 col-sm-3 text-center text-sm-start">
-                <a href="to:abagnaleflorenciag@gmail.com">abagnaleflorenciag@gmail.com.ar</a>
-            </div>
-    
-        </div>
-        <div class="whatsapp">
-            <a href="+54 9 351 704-9959"></a> <i class="fab fa-whatsapp pb-4 pt-3 px-3"></i>
-        </div>
-        
-
-
-    </footer>
-    
+    <?php include_once "footer.php"; ?>
 </body>
 <script src="css/bootstrap/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js"></script>
 </html>

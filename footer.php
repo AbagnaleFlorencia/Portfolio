@@ -9,7 +9,7 @@
                 <span>Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
             </div>
             <div class="col-12 col-sm-3 text-center text-sm-start my-sm-5">
-                <a href="to:abagnaleflorenciag@gmail.com">abagnaleflorenciag@gmail.com.ar</a>
+                <a href="mailto:abagnaleflorenciag@gmail.com" >abagnaleflorenciag@gmail.com.ar</a>
             </div>
     
         </div>

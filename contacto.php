@@ -34,7 +34,7 @@
                 </div>
             </div>
             <div class="col-12 col-sm-6">
-                <form action="" method="POST">
+                <form action="enviar.php" method="POST">
                     <div class="pb-3">
                         <input type="text" name="txtNombre" id="txtNombre" placeholder="Nombre" class="form-control shadow"> 
                     </div>
